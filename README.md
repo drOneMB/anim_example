@@ -24,4 +24,4 @@ Postępuj zgodnie z poniższymi krokami, aby poprawnie sklonować i otworzyć pr
 Otwórz terminal (lub Git Bash) i sklonuj repozytorium do wybranej lokalizacji:
 
 ```bash
-git clone [https://github.com/drOneMB/anim_example](https://github.com/drOneMB/anim_example)
+git clone https://github.com/drOneMB/anim_example.git
